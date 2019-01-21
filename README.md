@@ -9,4 +9,5 @@ We've started with Toy problems, to get familiar with the library (PyTorch) and 
 
 ## Toy Problems
 ### LSTM
-### Reinforcement Learning
+* Long Short Term Memory applied for vigenere cipher decryption with key
+
